@@ -26,8 +26,7 @@ div{
  font-stretch: semi-extended;
  font-variant: normal;
     font-family: Ravie; 
-    src: local('Ravie'), 
-        url(https://fonts.googleapis.com/css?family=Tangerine);
+    src: url(https://fonts.googleapis.com/css?family=Tangerine);
 }
 html, body {
 
