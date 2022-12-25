@@ -12,24 +12,12 @@ body {
  
 } 
 h2 {
-	font-size: 100px;
+
+    font-size: 100px;
     color:#990000;
 }
-div{
 
-	font-family: Ravie;
-}
-
-@font-face { 
- font-weight: 900;
- font-style: italic;
- font-stretch: semi-extended;
- font-variant: normal;
-    font-family: Ravie; 
-    src: url(https://fonts.googleapis.com/css?family=Tangerine);
-}
 html, body {
-
 height: 100%
 }
 
